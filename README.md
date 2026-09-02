@@ -4,7 +4,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=parsa-nasiri&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168462851%3Fu%3Da72236bd1350ef8ebc099b5a69681cdb17fc770a%26v%3D4&style=terminal" alt="Parsa Nasiri GitHub profile" />
 </p>
 
-**Parsa Nasiri** · Developer · Builder · AI enthusiast
+**Parsa Nasiri** · Developer · AI Builder
 
 > I build software, experiment with AI, and turn ideas into real products.
 
@@ -16,22 +16,21 @@ I'm interested in **AI, software development, automation, and product building**
   <img src="https://www.gitskins.com/api/section/stack?username=parsa-nasiri&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168462851%3Fu%3Da72236bd1350ef8ebc099b5a69681cdb17fc770a%26v%3D4&style=terminal" alt="Parsa Nasiri tech stack" />
 </p>
 
-**Core interests**
+### Languages & technologies
 
-* AI & AI-powered applications
-* Flutter / Dart
-* Python
-* TypeScript
-* Supabase & backend development
-* APIs & automation
-* Developer tools
-* Open-source projects
+* **Python**
+* **Dart**
+* **HTML / CSS**
+* **Flutter**
+* **Supabase**
+* **REST APIs & automation**
+* **AI & AI-powered applications**
 
 ## Projects
 
-Projects I build while exploring ideas across **AI, automation, mobile development, and developer tooling**.
+Projects I've built while exploring **AI, automation, mobile development, and developer tooling**.
 
-* [Routica](https://github.com/Parsa-Nasiri/Routica) — Dart
+* [Routica](https://github.com/Parsa-Nasiri/Routica) — Dart / Flutter
 * [RouteFlow](https://github.com/Parsa-Nasiri/RouteFlow) — TypeScript
 * [prs-tel-forwarder](https://github.com/Parsa-Nasiri/prs-tel-forwarder) — Python
 * [Config-Forwarder-Rub](https://github.com/Parsa-Nasiri/Config-Forwarder-Rub) — Python
@@ -52,7 +51,7 @@ Projects I build while exploring ideas across **AI, automation, mobile developme
 
 > Learn fast. Build real products. Ship.
 
-My long-term focus is building **software and AI products that people actually use** — from small developer tools to larger applications and AI-powered systems.
+My long-term focus is building **software and AI products that people actually use** — from developer tools and automation to AI-powered applications.
 
 ## `parsa-nasiri@github:~$ connect`
 
