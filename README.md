@@ -3,22 +3,38 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Parsa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFD700&background=00000000&center=true&vCenter=true&width=520&height=45&lines=Android+%26+Python+Developer;Building+one+commit+at+a+time;Turning+coffee+into+code" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/ARC_REACTOR-ONLINE-00D9FF?style=for-the-badge" alt="Arc Reactor Online" />
+  <img src="https://img.shields.io/badge/SUIT-MARK_XX-FF3D3D?style=for-the-badge" alt="Suit Mark XX" />
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-FFD700?style=for-the-badge" alt="Status Operational" />
 </p>
 
 <p align="center">
-  <i>Powered by an arc reactor, caffeine, and stubbornness. ⚡</i>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2200&pause=900&color=00D9FF&background=00000000&center=true&vCenter=true&width=560&height=40&lines=Initializing+J.A.R.V.I.S...;Scanning+repositories...;Arc+reactor%3A+online.;Welcome+back%2C+sir." alt="Typing SVG" />
+</p>
+
+```
+> INITIALIZING J.A.R.V.I.S. ..................... DONE
+> ARC REACTOR ..................................... ONLINE
+> REPULSORS ......................................... READY
+> SUIT INTEGRITY .................................... 100%
+> PILOT ............................................ PARSA
+> STACK ................. ANDROID // PYTHON // FLUTTER
+> STATUS ....................................... OPERATIONAL
+```
+
+<p align="center">
+  <i>Stark Industries wasn't hiring, so I built my own lab. ⚡</i>
 </p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Parsa-Nasiri">
-    <img src="https://komarev.com/ghpvc/?username=Parsa-Nasiri&label=Profile%20views&color=FFD700&style=for-the-badge" alt="Parsa-Nasiri's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Parsa-Nasiri&label=Profile%20views&color=00D9FF&style=for-the-badge" alt="Parsa-Nasiri's profile views" />
   </a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,50:FF3D3D,100:FFD700&height=4" />
 
-## 🧠 About Me
+## 🛡️ Pilot Profile
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
@@ -29,7 +45,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,50:FF3D3D,100:FFD700&height=4" />
 
-## 📊 GitHub Stats & Trophies
+## 📡 Mission Telemetry
+
+<p align="center"><sub>Diagnostics run continuously. No repulsors were harmed.</sub></p>
 
 <p align="center">
   <a href="https://github.com/Parsa-Nasiri">
@@ -46,8 +64,15 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,50:FF3D3D,100:FFD700&height=4" />
 
-## 🛠️ Tech Stack
+## ⚙️ Suit Systems
 
+<p align="center"><sub>MARK XX LOADOUT</sub></p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark&perline=2" alt="Mobile" />
+  </a>
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,nodejs,gcp&theme=dark&perline=3" alt="Core Stack" />
@@ -67,10 +92,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,50:FF3D3D,100:FFD700&height=4" />
 
-## 🕹️ Pixel Arcade
+## 🎮 Training Simulator
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=2000&pause=800&color=FF3D3D&background=00000000&center=true&vCenter=true&width=380&height=40&lines=INSERT+COIN" alt="Insert Coin" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=2000&pause=800&color=FF3D3D&background=00000000&center=true&vCenter=true&width=380&height=40&lines=SUIT+UP" alt="Suit Up" />
 </p>
 
 <picture>
@@ -79,18 +104,19 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Parsa-Nasiri/Parsa-Nasiri/output/pacman-contribution-graph.svg">
 </picture>
 
-<p align="center"><sub>👻 Pac-Man eats a pixel for every contribution. One-time setup workflow is attached below.</sub></p>
+<p align="center"><sub>Simulation mode: eating pixels since forever. One-time setup workflow attached below.</sub></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,50:FF3D3D,100:FFD700&height=4" />
 
-## 🔗 Connect with Me
+## 🛰️ Comm Channel
 <p align="center">
   <a href="https://x.com/parsa_na8">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" alt="Parsa's Twitter"/>
   </a>
 </p>
+<p align="center"><sub>Transmitting on all frequencies.</sub></p>
 
 ## 💬 Quote
 > "Genius, billionaire, playboy, philanthropist."
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:8B0000,50:FF3D3D,100:FFD700&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontColor=ffffff&fontSize=24&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:8B0000,50:FF3D3D,100:FFD700&height=120&section=footer&text=Suit%20Powering%20Down...&fontColor=ffffff&fontSize=24&animation=fadeIn" width="100%" />
